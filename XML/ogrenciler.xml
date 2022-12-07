@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Ogrenciler>
+    <ogrenci>
+        <ogrNo>349</ogrNo>
+        <ogrAd>Deniz</ogrAd>
+        <ogrSoyad>Korkmazer</ogrSoyad>
+        <not>88</not>
+    </ogrenci>
+    <ogrenci>
+        <ogrNo>555</ogrNo>
+        <ogrAd>Ferhat</ogrAd>
+        <ogrSoyad>Korkmaz</ogrSoyad>
+        <not>95</not>
+    </ogrenci>
+    <ogrenci>
+        <ogrNo>111</ogrNo>
+        <ogrAd>Ali</ogrAd>
+        <ogrSoyad>Ozerinc</ogrSoyad>
+        <not>100</not>
+    </ogrenci>
+</Ogrenciler>

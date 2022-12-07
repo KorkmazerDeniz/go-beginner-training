@@ -1,0 +1,33 @@
+{
+
+  "universite": "Harvard Üniversitesi",
+  "bolum": "Software Engineer",
+
+  "ogrenciler": [
+    {
+      "ogrNo": 349,
+      "ogrAd": "Deniz",
+      "ogrSoyad": "Korkmazer",
+      "hobiler": "DJ"
+    },
+    {
+      "ogrNo": 552,
+      "ogrAd": "Ferhat",
+      "ogrSoyad": "Korkmaz",
+      "arkadası": "Sercan"
+    }
+  ],
+  "dersler": [
+    {
+      "dersNo": 101,
+      "dersAdı": "Programlama"
+    },
+    {
+      "dersNo": 404,
+      "dersAdı": "Veri Yapıları"
+    }
+  ]
+
+
+
+}

@@ -1,0 +1,32 @@
+{
+  "ogrenciler": [
+    {
+      "ogrNo": 349,
+      "ogrAd": "Deniz",
+      "ogrSoyad": "Korkmazer",
+      "ogrNot": 46
+
+    },
+    {
+      "ogrNo": 552,
+      "ogrAd": "Ferhat",
+      "ogrSoyad": "Korkmaz",
+      "ogrNot": 96
+    },
+    {
+      "ogrNo": 321,
+      "ogrAd": "Sercan",
+      "ogrSoyad": "Yalirgav",
+      "ogrNot": 75
+    },
+    {
+      "ogrNo": 911,
+      "ogrAd": "Recep",
+      "ogrSoyad": "İvedik",
+      "ogrNot": 88
+    }
+  ]
+
+
+
+}

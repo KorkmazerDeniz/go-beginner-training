@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <sirket>
+      <personel>
+          <tcno>23296</tcno>
+          <personelAd>Deniz</personelAd>
+          <personelSoyad>Korkmazer</personelSoyad>
+          <mevki>Yazılımcı</mevki>
+      </personel>
+      <personel>
+          <tcno>38954</tcno>
+          <personelAd>Ali</personelAd>
+          <personelSoyad>Özerinç</personelSoyad>
+          <mevki>Yönetici</mevki>
+      </personel>
+  </sirket>

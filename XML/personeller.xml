@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <sirket>
+      <personel>
+          <tcno>23296</tcno>
+          <personelAd>Abdulhamid Kaan</personelAd>
+          <personelSoyad>Söyler</personelSoyad>
+          <mevki>Yazılımcı</mevki>
+      </personel>
+      <personel>
+          <tcno>38954</tcno>
+          <personelAd>Betül</personelAd>
+          <personelSoyad>Gürbüz</personelSoyad>
+          <mevki>Yönetici</mevki>
+      </personel>
+  </sirket>

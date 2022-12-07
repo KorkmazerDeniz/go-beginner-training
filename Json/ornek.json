@@ -1,0 +1,14 @@
+{
+  "marka": "Renault",
+  "fiyat": 750000,
+  "model": "Megan Sedan",
+  "paket": ["FULL","COMFORT","İCON"],
+  "özellik": {
+    "klima": true,
+    "jant": 18
+  },
+  "bayisatis": true
+
+
+
+}
